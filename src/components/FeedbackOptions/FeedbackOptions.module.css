@@ -1,0 +1,12 @@
+.feedBtn{
+    margin: 10px;
+        width: 72px;
+        height: 28px;
+        font-size: 15px;
+        font-weight: 700;
+        background-color: orange;
+        color: black;
+        border: 3px solid #c28f44;
+        border-radius: 8px;
+        cursor: pointer;
+}
